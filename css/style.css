@@ -216,6 +216,53 @@ h3 {
     border-radius: 5px;
     background-color: white;
 
+}
 
+
+.description-cost {
+
+font-size: 30px;
+font-weight: bold;
+
+}
+
+
+.description-month {
+
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 0px;
+    margin-right: 30px;
+    border: 1px gray;
+    border-radius: 5px;
+    background-color: #E1F5EA;
+    width: 300px
+
+}
+
+.description-year {
+
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 0px;
+    margin-right: 30px;
+    border: 1px gray;
+    border-radius: 5px;
+    background-color: #EBDCF9;
+    width: 300px
+
+}
+
+.desription-form {
+
+margin-bottom: 20px;
 
 }
